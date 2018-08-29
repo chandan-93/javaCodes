@@ -1,5 +1,5 @@
 View: JSP
 Controller: Servlet
 Back End: MySQL
-Description: Is a CRUD web application based on MVC2 pattern uses Sessions to mantain customer & admin profile. Using Online Banking Registration user can register for an account, can edit/update their profile, transfer money to any bank account, view all of their transactions, view their account balance.
+Description: Is a CRUD web application based on MVC2 pattern. It uses Sessions to mantain customer & admin profile. Using Online Banking Registration user can register for an account, can edit/update their profile, transfer money to any bank account, view all of their transactions, view their account balance.
 Admin can delete, edit/update any customer profile, bank account. Admin can approve or disapprove any transaction by the customer.
