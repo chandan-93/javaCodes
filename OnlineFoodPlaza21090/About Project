@@ -1,0 +1,4 @@
+Front End: Java (JSP, Servlet)
+Back End: MySQL
+Duration: Sept, 2016
+Description: Is a CRUD web application based on MVC2 pattern. It users Sessions to maintain customer & admin accounts. Is an ecommerce web application where customer can register, login , edit/update profile, just like an ecommerce customer can add the foods to cart also delete from cart. Once order is placed cart is cleaned, send feedbacks to admin.
